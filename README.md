@@ -69,4 +69,20 @@ And here our influencers or people that are able to spread information very effi
 
 Pict ### ClosennessCentrality
 
+But still some questions here:
+- Are they the only people that effectively spread the information?
+- Do others have enough resources and channels to spread the information?
+- Do we want to involve more people in planning process? 
+
+### Next Steps 
+There is more work to do here and I would look at:
+From Business Perspective:
+- Teams survey 
+- 360° review for highlighted people
+- Work with HR and Department Leads to get more targeted problems and solutions
+
+Friom Data Perspective: 
+- Layers 
+- Communities 
+- Shapley Betweenness Centrality, which calculates the value of a node by examing repercussions of the node failing (being removed from the network) on different subsections of the network. Essentially, if the removal of a node were to be detrimental to any group of nodes, the node will have high Shapley betweenness centrality.
 
