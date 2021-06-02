@@ -14,6 +14,9 @@ During my exploratory data analysis I’ve managed to form 3 different sub-graph
 
 I was ably to identify 738 individuals who formed 19935 connections, which are either one-on-one meetings or group meetings with three or more people. Also I was able to split this main network  into 11 smaller communities, which could be considered as departments or product groups. 
 
+![] (https://https://github.com/Nadinma/graph_project/blob/main/Communities.png)
+
+
 ### TechStack 
 For my work I used such tools as Pandas, Numpy, Matplotlib, Gephi, Python, Networkx
 
