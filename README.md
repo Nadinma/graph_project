@@ -51,4 +51,22 @@ But what if:
 
 Pict ### Least Connected
 
+### Betweenness Centrality
+To assess global opinion leadership, the closeness and betweenness centrality measures are better suited.
+Let’s continue with our gatekeepers. Here we can see top four people with high traffic. 
+We’ve got two new players - Lead and VP of product #4. 
+If three individuals are around the same level, but the forth one (Lead) needs a deeper look.  
+
+Pict ### BetweennessCentrality
+
+Questions for deeper exploration: 
+- Is Lead an outlier?
+- Is there a problem of duplicated functionality? 
+- Are they effective or just bottleneck?
+
+### Closeness centrality
+And here our influencers or people that are able to spread information very efficiently through the network. We can see top four and they are the same people. We can conclude that they are empowered by the organization - they are formal and informal leaders. They are working inward and outward by connecting their teams inside and with teams outside together. 
+
+Pict ### ClosennessCentrality
+
 
