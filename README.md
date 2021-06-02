@@ -4,7 +4,7 @@
 
 [More detailed scrypt](https://github.com/Nadinma/graph_project/blob/main/graph_serach_project.ipynb)
 
-### Intro
+### Intro / EDA
 
 The goal of this project is to explore the interaction flow of an organization and build a framework that will help the HR department to narrow down problematic areas in a big organization with hundreds or thousands employees.
 
@@ -14,6 +14,7 @@ During my exploratory data analysis I’ve managed to form 3 different sub-graph
 
 I was ably to identify 738 individuals who formed 19935 connections, which are either one-on-one meetings or group meetings with three or more people. Also I was able to split this main network  into 11 smaller communities, which could be considered as departments or product groups. 
 
-
+### TechStack 
+For my work I used such tools as Pandas, Numpy, Matplotlib, Gephi, Python, Networkx
 
 
