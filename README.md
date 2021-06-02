@@ -17,4 +17,16 @@ I was ably to identify 738 individuals who formed 19935 connections, which are e
 ### TechStack 
 For my work I used such tools as Pandas, Numpy, Matplotlib, Gephi, Python, Networkx
 
+### Centrality
+The main concept I applied in my research is centrality, which helps to understand  importance of people in the network in a given perspective and can be expressed in different ways; there are multiple types of centrality measures. 
+Degree centrality - the most connected people within a network - most popular, 
+Betweenness centrality -  People or who connect network together the most - gatekeepers, and 
+Closeness centrality - People spread information very efficiently through the network - influencers. 
+
+### Degree Centrality - Most Connected, who can be called local opinion leaders
+I highlighted top 4 most connected - CEO; VP of Product #1, VP of Product #2; VP of Product #3. Which sounds kind of normal based on their positions. When I explored communities separately they still appeared as most connected. Which tells us that they are not only formal leaders by holding their status, they actually leading the communities. 
+
+Pict###
+
+But for deeper investigation I would ask the next questions: 
 
