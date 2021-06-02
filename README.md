@@ -29,7 +29,26 @@ Closeness centrality - People spread information very efficiently through the ne
 ### Degree Centrality - Most Connected, who can be called local opinion leaders
 I highlighted top 4 most connected - CEO; VP of Product #1, VP of Product #2; VP of Product #3. Which sounds kind of normal based on their positions. When I explored communities separately they still appeared as most connected. Which tells us that they are not only formal leaders by holding their status, they actually leading the communities. 
 
-Pict###
+Pict### Degree Centrality - upload
 
 But for deeper investigation I would ask the next questions: 
+- Why are they involved in local meetings?
+- Do they delegate enough?
+- What happens if we remove a node? 
+
+### Degree Centrality - Two other layers 
+I decided to check and see who are the next most popular or connected people, after removing previously mentioned positions, I’ve got another layer of VPs, then I removed them too. Now we can see most employees are having similar level of popularity which tells us that the structure of this particular organization is more flat. Some departments are flatter than the others like number 6 and 3. 
+
+Pict ###  DegreeCentrality_2layers
+
+### Degree Centrality - Least Connected / Popular
+Let’s look at the situation from the opposite side and think about least connected people - they are the brightest dots on the picture. 
+It may be ok for them to be kind of isolated because of the nature of their work. 
+But what if: 
+- there is a problem with communication tools and channels?
+- inclusivity issues?
+- reasons why these people may not be included in planning process?
+
+Pict ### Least Connected
+
 
