@@ -15,7 +15,7 @@ During my exploratory data analysis I’ve managed to form 3 different sub-graph
 I was ably to identify 738 individuals who formed 19935 connections, which are either one-on-one meetings or group meetings with three or more people. Also I was able to split this main network  into 11 smaller communities, which could be considered as departments or product groups. 
 
 
-![] (https://github.com/Nadinma/graph_project/blob/main/images/Communities.png)
+![](https://github.com/Nadinma/graph_project/blob/main/images/Communities.png)
 
 ### TechStack 
 For my work I used such tools as Pandas, Numpy, Matplotlib, Gephi, Python, Networkx
@@ -30,7 +30,7 @@ Closeness centrality - People spread information very efficiently through the ne
 I highlighted top 4 most connected - CEO; VP of Product #1, VP of Product #2; VP of Product #3. Which sounds kind of normal based on their positions. When I explored communities separately they still appeared as most connected. Which tells us that they are not only formal leaders by holding their status, they actually leading the communities. 
 
 
-![] (https://github.com/Nadinma/graph_project/blob/main/images/DegreeCentrality.png)
+![](https://github.com/Nadinma/graph_project/blob/main/images/DegreeCentrality.png)
 
 But for deeper investigation I would ask the next questions: 
 - Why are they involved in local meetings?
