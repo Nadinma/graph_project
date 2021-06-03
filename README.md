@@ -2,7 +2,7 @@
 
 #### High level description of project: this project is a demonstration of how Data Scientists identify problematic areas within an organization. In this case a Data Science specialist doesn’t particularly solve the problem for you, but a DS specialist can direct to the right solution. 
 
-[More detailed scrypt](https://github.com/Nadinma/graph_project/blob/main/graph_serach_project.ipynb)
+[More detailed here](https://github.com/Nadinma/graph_project/blob/main/graph_serach_project.ipynb)
 
 ### Intro / EDA
 
