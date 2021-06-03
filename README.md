@@ -41,7 +41,7 @@ But for deeper investigation I would ask the next questions:
 I decided to check and see who are the next most popular or connected people, after removing previously mentioned positions, I’ve got another layer of VPs, then I removed them too. Now we can see most employees are having similar level of popularity which tells us that the structure of this particular organization is more flat. Some departments are flatter than the others like number 6 and 3. 
 
 
-![] (https://github.com/Nadinma/graph_project/blob/main/images/DegreeCentrality_2layers.png)
+![](https://github.com/Nadinma/graph_project/blob/main/images/DegreeCentrality_2layers.png)
 
 ### Degree Centrality - Least Connected / Popular
 Let’s look at the situation from the opposite side and think about least connected people - they are the brightest dots on the picture. 
@@ -51,7 +51,7 @@ But what if:
 - inclusivity issues?
 - reasons why these people may not be included in planning process?
 
-![] (https://github.com/Nadinma/graph_project/blob/main/images/Least%20Connected.png)
+![](https://github.com/Nadinma/graph_project/blob/main/images/Least%20Connected.png)
 
 ### Betweenness Centrality
 To assess global opinion leadership, the closeness and betweenness centrality measures are better suited.
@@ -60,7 +60,7 @@ We’ve got two new players - Lead and VP of product #4.
 If three individuals are around the same level, but the forth one (Lead) needs a deeper look.  
 
 
-![] (https://github.com/Nadinma/graph_project/blob/main/images/BetweennessCentrality.png)
+![](https://github.com/Nadinma/graph_project/blob/main/images/BetweennessCentrality.png)
 
 Questions for deeper exploration: 
 - Is Lead an outlier?
@@ -71,7 +71,7 @@ Questions for deeper exploration:
 And here our influencers or people that are able to spread information very efficiently through the network. We can see top four and they are the same people. We can conclude that they are empowered by the organization - they are formal and informal leaders. They are working inward and outward by connecting their teams inside and with teams outside together. 
 
 
-![] (https://github.com/Nadinma/graph_project/blob/main/images/ClosennessCentrality.png)
+![](https://github.com/Nadinma/graph_project/blob/main/images/ClosennessCentrality.png)
 
 But still some questions here:
 - Are they the only people that effectively spread the information?
